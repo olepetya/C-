@@ -1,0 +1,10 @@
+/home/ftaeml/Worker/obj/Debug/netcoreapp2.0/Worker.csproj.CoreCompileInputs.cache
+/home/ftaeml/Worker/obj/Debug/netcoreapp2.0/Worker.AssemblyInfoInputs.cache
+/home/ftaeml/Worker/obj/Debug/netcoreapp2.0/Worker.AssemblyInfo.cs
+/home/ftaeml/Worker/bin/Debug/netcoreapp2.0/Worker.deps.json
+/home/ftaeml/Worker/bin/Debug/netcoreapp2.0/Worker.runtimeconfig.json
+/home/ftaeml/Worker/bin/Debug/netcoreapp2.0/Worker.runtimeconfig.dev.json
+/home/ftaeml/Worker/bin/Debug/netcoreapp2.0/Worker.dll
+/home/ftaeml/Worker/bin/Debug/netcoreapp2.0/Worker.pdb
+/home/ftaeml/Worker/obj/Debug/netcoreapp2.0/Worker.dll
+/home/ftaeml/Worker/obj/Debug/netcoreapp2.0/Worker.pdb

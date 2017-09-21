@@ -1,0 +1,10 @@
+/home/ftaeml/Send/bin/Debug/netcoreapp2.0/Send.deps.json
+/home/ftaeml/Send/bin/Debug/netcoreapp2.0/Send.runtimeconfig.json
+/home/ftaeml/Send/bin/Debug/netcoreapp2.0/Send.runtimeconfig.dev.json
+/home/ftaeml/Send/bin/Debug/netcoreapp2.0/Send.dll
+/home/ftaeml/Send/bin/Debug/netcoreapp2.0/Send.pdb
+/home/ftaeml/Send/obj/Debug/netcoreapp2.0/Send.csproj.CoreCompileInputs.cache
+/home/ftaeml/Send/obj/Debug/netcoreapp2.0/Send.AssemblyInfoInputs.cache
+/home/ftaeml/Send/obj/Debug/netcoreapp2.0/Send.AssemblyInfo.cs
+/home/ftaeml/Send/obj/Debug/netcoreapp2.0/Send.dll
+/home/ftaeml/Send/obj/Debug/netcoreapp2.0/Send.pdb

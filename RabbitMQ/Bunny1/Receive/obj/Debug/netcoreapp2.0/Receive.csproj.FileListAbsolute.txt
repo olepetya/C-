@@ -1,0 +1,10 @@
+/home/ftaeml/Receive/bin/Debug/netcoreapp2.0/Receive.deps.json
+/home/ftaeml/Receive/bin/Debug/netcoreapp2.0/Receive.runtimeconfig.json
+/home/ftaeml/Receive/bin/Debug/netcoreapp2.0/Receive.runtimeconfig.dev.json
+/home/ftaeml/Receive/bin/Debug/netcoreapp2.0/Receive.dll
+/home/ftaeml/Receive/bin/Debug/netcoreapp2.0/Receive.pdb
+/home/ftaeml/Receive/obj/Debug/netcoreapp2.0/Receive.csproj.CoreCompileInputs.cache
+/home/ftaeml/Receive/obj/Debug/netcoreapp2.0/Receive.AssemblyInfoInputs.cache
+/home/ftaeml/Receive/obj/Debug/netcoreapp2.0/Receive.AssemblyInfo.cs
+/home/ftaeml/Receive/obj/Debug/netcoreapp2.0/Receive.dll
+/home/ftaeml/Receive/obj/Debug/netcoreapp2.0/Receive.pdb
