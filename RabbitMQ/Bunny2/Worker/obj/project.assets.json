@@ -4192,11 +4192,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ftaeml/Worker/Worker.csproj",
+      "projectUniqueName": "/home/ftaeml/C#/RabbitMQ/Bunny2/Worker/Worker.csproj",
       "projectName": "Worker",
-      "projectPath": "/home/ftaeml/Worker/Worker.csproj",
+      "projectPath": "/home/ftaeml/C#/RabbitMQ/Bunny2/Worker/Worker.csproj",
       "packagesPath": "/home/ftaeml/.nuget/packages/",
-      "outputPath": "/home/ftaeml/Worker/obj/",
+      "outputPath": "/home/ftaeml/C#/RabbitMQ/Bunny2/Worker/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

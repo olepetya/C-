@@ -4192,11 +4192,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ftaeml/NewTask/NewTask.csproj",
+      "projectUniqueName": "/home/ftaeml/C#/RabbitMQ/Bunny2/NewTask/NewTask.csproj",
       "projectName": "NewTask",
-      "projectPath": "/home/ftaeml/NewTask/NewTask.csproj",
+      "projectPath": "/home/ftaeml/C#/RabbitMQ/Bunny2/NewTask/NewTask.csproj",
       "packagesPath": "/home/ftaeml/.nuget/packages/",
-      "outputPath": "/home/ftaeml/NewTask/obj/",
+      "outputPath": "/home/ftaeml/C#/RabbitMQ/Bunny2/NewTask/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

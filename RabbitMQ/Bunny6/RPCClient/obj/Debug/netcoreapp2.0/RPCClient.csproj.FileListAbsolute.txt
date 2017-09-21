@@ -1,0 +1,10 @@
+/home/ftaeml/C#/RabbitMQ/Bunny6/RPCClient/bin/Debug/netcoreapp2.0/RPCClient.deps.json
+/home/ftaeml/C#/RabbitMQ/Bunny6/RPCClient/bin/Debug/netcoreapp2.0/RPCClient.runtimeconfig.json
+/home/ftaeml/C#/RabbitMQ/Bunny6/RPCClient/bin/Debug/netcoreapp2.0/RPCClient.runtimeconfig.dev.json
+/home/ftaeml/C#/RabbitMQ/Bunny6/RPCClient/bin/Debug/netcoreapp2.0/RPCClient.dll
+/home/ftaeml/C#/RabbitMQ/Bunny6/RPCClient/bin/Debug/netcoreapp2.0/RPCClient.pdb
+/home/ftaeml/C#/RabbitMQ/Bunny6/RPCClient/obj/Debug/netcoreapp2.0/RPCClient.csproj.CoreCompileInputs.cache
+/home/ftaeml/C#/RabbitMQ/Bunny6/RPCClient/obj/Debug/netcoreapp2.0/RPCClient.AssemblyInfoInputs.cache
+/home/ftaeml/C#/RabbitMQ/Bunny6/RPCClient/obj/Debug/netcoreapp2.0/RPCClient.AssemblyInfo.cs
+/home/ftaeml/C#/RabbitMQ/Bunny6/RPCClient/obj/Debug/netcoreapp2.0/RPCClient.dll
+/home/ftaeml/C#/RabbitMQ/Bunny6/RPCClient/obj/Debug/netcoreapp2.0/RPCClient.pdb

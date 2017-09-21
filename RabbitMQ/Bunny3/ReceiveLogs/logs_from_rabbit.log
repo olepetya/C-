@@ -1,0 +1,2 @@
+ReceiveLogs.cs(2,7): error CS0246: The type or namespace name 'RabbitMQ' could not be found (are you missing a using directive or an assembly reference?) [/home/ftaeml/C#/RabbitMQ/Bunny3/ReceiveLogs/ReceiveLogs.csproj]
+ReceiveLogs.cs(3,7): error CS0246: The type or namespace name 'RabbitMQ' could not be found (are you missing a using directive or an assembly reference?) [/home/ftaeml/C#/RabbitMQ/Bunny3/ReceiveLogs/ReceiveLogs.csproj]
