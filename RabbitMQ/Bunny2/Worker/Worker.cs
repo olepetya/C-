@@ -18,7 +18,9 @@ class Worker
                                  autoDelete: false,
                                  arguments: null);
 
-            channel.BasicQos(prefetchSize: 0, prefetchCount: 1, global: false);
+            channel.BasicQos(prefetchSize: 0,
+                             prefetchCount: 1,
+                             global: false);
 
             Console.WriteLine(" [*] Waiting for messages.");
 
@@ -34,7 +36,8 @@ class Worker
 
                 Console.WriteLine(" [x] Done");
 
-                channel.BasicAck(deliveryTag: ea.DeliveryTag, multiple: false);
+                channel.BasicAck(deliveryTag: ea.DeliveryTag,
+                                 multiple: false);
             };
             channel.BasicConsume(queue: "task_queue",
                                  autoAck: false,
